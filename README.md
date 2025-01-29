@@ -1,6 +1,6 @@
 Aqui está o modelo de um `README.md` em Markdown para o seu sistema:
 
-```markdown
+
 # EFD - Excluir Linhas de NF Canceladas
 
 Este é um sistema desenvolvido com Python e Tkinter, que tem como objetivo processar arquivos de texto no formato EFD (Escrituração Fiscal Digital) e remover linhas relacionadas a notas fiscais canceladas. O usuário seleciona um arquivo de texto, e o programa gera uma versão filtrada do arquivo, excluindo as linhas que correspondem a notas fiscais canceladas.
